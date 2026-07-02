@@ -45,3 +45,43 @@ Instead of performing incident response manually, this lab orchestrates multiple
 | FortiGate | Automated containment |
 
 ---
+
+## Incident Response Workflow
+
+```text
+Attack
+
+↓
+
+Detection (Wazuh)
+
+↓
+
+Automation Trigger (Shuffle)
+
+↓
+
+IOC Enrichment
+
+↓
+
+Decision
+
+↓
+
+Create Case (TheHive)
+
+↓
+
+Containment
+
+↓
+
+Notification
+
+↓
+
+Incident Closure
+```
+
+---
