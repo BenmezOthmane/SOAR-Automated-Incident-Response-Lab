@@ -92,3 +92,69 @@ Incident Closure
 ```
 
 ---
+
+## Automated Playbooks
+
+### Brute Force Response
+
+```
+SSH Brute Force
+
+↓
+
+Detect Login Failures
+
+↓
+
+Extract Source IP
+
+↓
+
+AbuseIPDB Lookup
+
+↓
+
+Create TheHive Case
+
+↓
+
+Block IP (FortiGate)
+
+↓
+
+Notify Analyst
+```
+
+---
+
+### Phishing Response
+
+```
+Suspicious Email
+
+↓
+
+Extract URL
+
+↓
+
+VirusTotal
+
+↓
+
+URLHaus
+
+↓
+
+Create Case
+
+↓
+
+Tag IOC
+
+↓
+
+Notify Analyst
+```
+
+---
