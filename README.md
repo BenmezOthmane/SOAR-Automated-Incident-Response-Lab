@@ -1,5 +1,12 @@
 # SOAR Automated Incident Response Lab
 
+![SOAR](https://img.shields.io/badge/SOAR-Automation-blue)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-green)
+![Shuffle](https://img.shields.io/badge/Shuffle-Orchestration-orange)
+![TheHive](https://img.shields.io/badge/TheHive-Case_Management-yellow)
+![FortiGate](https://img.shields.io/badge/FortiGate-Firewall-red)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ## Wazuh • Shuffle • TheHive • FortiGate
 
 > Automated Incident Response Playbooks for Brute Force, Phishing, and Malicious PowerShell Incidents.
