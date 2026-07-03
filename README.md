@@ -158,3 +158,31 @@ Notify Analyst
 ```
 
 ---
+
+### Malicious PowerShell Response
+
+```
+PowerShell Detection
+
+↓
+
+Extract Hash
+
+↓
+
+VirusTotal
+
+↓
+
+Create Case
+
+↓
+
+Containment
+
+↓
+
+Notify Analyst
+```
+
+---
