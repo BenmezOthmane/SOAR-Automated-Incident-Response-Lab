@@ -254,3 +254,9 @@ The repository contains screenshots for:
 
 ---
 
+## Author
+
+Othmane Benmezian
+Blue Team | SOC Analyst Portfolio
+
+If you find this project useful, consider giving it a ⭐.
