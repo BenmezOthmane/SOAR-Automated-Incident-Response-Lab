@@ -239,3 +239,18 @@ The repository contains screenshots for:
 
 ---
 
+## Skills Demonstrated
+
+- Security Monitoring
+- Incident Response
+- SOAR Automation
+- Threat Intelligence Integration
+- IOC Enrichment
+- API Integration
+- Case Management
+- Detection Engineering
+- Security Operations (SOC)
+- MITRE ATT&CK Mapping
+
+---
+
