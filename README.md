@@ -186,3 +186,56 @@ Notify Analyst
 ```
 
 ---
+
+## Repository Structure
+
+```text
+SOAR-Automated-Incident-Response-Lab/
+
+architecture/
+
+playbooks/
+
+wazuh/
+
+shuffle/
+
+thehive/
+
+ioc/
+
+screenshots/
+
+docs/
+
+README.md
+```
+
+---
+
+## MITRE ATT&CK Coverage
+
+| Scenario | Technique |
+|-----------|-----------|
+| Brute Force | T1110 |
+| PowerShell | T1059.001 |
+| Phishing | T1566 |
+| Command Execution | T1059 |
+| IOC Enrichment | Detection Support |
+
+---
+
+## Screenshots
+
+The repository contains screenshots for:
+
+- Lab architecture
+- Wazuh alerts
+- Shuffle workflows
+- IOC enrichment
+- TheHive cases
+- FortiGate containment
+- Notifications
+
+---
+
