@@ -200,6 +200,8 @@ wazuh/
 
 shuffle/
 
+integrations/
+
 thehive/
 
 ioc/
